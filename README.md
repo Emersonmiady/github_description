@@ -30,6 +30,7 @@ The details of each solution are described bellow.
 # Data Science Projects
 ---
 
+## ![Health Insurance Cross-Sell](https://github.com/Emersonmiady/health-insurance-cross-sell)
 
 
 
