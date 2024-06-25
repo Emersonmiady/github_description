@@ -32,5 +32,9 @@ The details of each solution are described bellow.
 
 ## ![Health Insurance Cross-Sell](https://github.com/Emersonmiady/health-insurance-cross-sell)
 
+## ![Rossmann Store Sales](https://github.com/Emersonmiady/data-science-em-producao/tree/main)
+
+## ![UCI Bed Need (PT-BR)](https://github.com/Emersonmiady/previsao-leitos-uti-otimizada)
+
 
 
